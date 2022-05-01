@@ -92,6 +92,10 @@ public class MyString {
 			System.out.println(result[i]);
 		}
 		System.out.println("its working");
+		System.out.println("its working");
+		System.out.println("its working");
+		System.out.println("its working");
+		
 		
 		
 	}
